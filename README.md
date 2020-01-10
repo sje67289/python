@@ -1,2 +1,1 @@
-# python
-tutorial and coding study
+# python studying
